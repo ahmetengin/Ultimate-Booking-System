@@ -165,7 +165,7 @@ class Currency
         'TWD' => 'Taiwan New Dollar',
         'THB' => 'Thailand Baht',
         'TTD' => 'Trinidad and Tobago Dollar',
-        'TRY' => 'Turkey Lira',
+        'TRY' => 'Turkey New Lira',
         'TRL' => 'Turkey Lira',
         'TVD' => 'Tuvalu Dollar',
         'UAH' => 'Ukraine Hryvna',
@@ -351,8 +351,8 @@ class Currency
         'TMT' => '&#109;',
         'TND' => '&#1583;.&#1578;',
         'TOP' => '&#84;&#36;',
-        'TRY' => '&#8356;',
-        // New Turkey Lira (old symbol used)
+        'TRY' => '&#x20BA;',
+        // Turkey New Lira (updated symbol)
         'TTD' => '&#36;',
         'TWD' => '&#78;&#84;&#36;',
         'TZS' => '&#84;&#83;&#104;',
